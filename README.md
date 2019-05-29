@@ -6,9 +6,10 @@
 
 参考https://zhuanlan.zhihu.com/p/36830594
 
-jupyterlab binder
+jupyter notebook binder
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/feizei2008/tushare_tick2mins/master?filepath=tushare%20tick2mins.ipynb)
 
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/feizei2008/tushare_tick2mins/master?filepath=tushare%20tick2mins.ipynb
+jupyter lab binder(?filepath=替换为?urlpath=lab/tree/，推荐)
+
+https://mybinder.org/v2/gh/feizei2008/tushare_tick2mins/master?urlpath=lab/tree/tushare%20tick2mins.ipynb
